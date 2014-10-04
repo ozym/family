@@ -1,4 +1,4 @@
 family-history
 ==============
 
-Chadwick/Vine Family History
+Chadwick & Vine Family

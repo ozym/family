@@ -3,7 +3,7 @@ install: go get -v github.com/spf13/hugo
 script:
   - hugo
   - python --version
-  - sudo pip install aws-cli
+  - sudo pip install awscli
   - aws s3 sync --acl public-read --delete public/ s3://family.chadwick.nz
 
 notifications:

@@ -1,6 +1,6 @@
-baseurl = "http://hugo.spf13.com/"
+baseurl = "http://family.chadwick.nz/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "Family"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -9,18 +9,18 @@ googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+    description          = "Historical Family Notes"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = "Tree"
     # Social media buttons that appear on the sidebar
-    socialAppearAtTop    = true
-    socialAppearAtBottom = true
+    socialAppearAtTop    = false
+    socialAppearAtBottom = false
     # set this to the section name if section is not post
-    viewMorePostLink     = "/blog/"
+    viewMorePostLink     = "/posts/"
 
 # Optional Params
-    categoriesByCount    = true
-    includeReadingTime   = true
+    categoriesByCount    = false
+    includeReadingTime   = false
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
     # Please see the favicon partial template for more information
@@ -41,11 +41,11 @@ googleAnalytics = ""
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Hugo Future Imperfect"
+    header    = "Something Here"
 
-    paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "More Here."
 
-    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+    about     = "Even More Here."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -57,18 +57,18 @@ googleAnalytics = ""
     circle    = false
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "Alt"
 
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
 [params.postAmount]
-    sidebar = 2
+    sidebar = 5
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
-    name = "Blog"
-    url = "/blog"
+    name = "Posts"
+    url = "/posts"
     identifier = "fa fa-newspaper-o"
     weight = 1
 

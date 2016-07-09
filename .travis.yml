@@ -11,7 +11,7 @@ script:
 
 deploy:
   provider: script
-  script: aws s3 sync --recursive --acl public-read --delete public/ s3://family.chadwick.nz
+  script: aws s3 sync --acl public-read --delete public/ s3://family.chadwick.nz
   skip_cleanup: true
   on:
     branch: master

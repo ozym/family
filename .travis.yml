@@ -1,11 +1,21 @@
 language: go
+
+before_install:
+   - sudo pip install -q awscli
+
 install: go get -v github.com/spf13/hugo
+
 script:
   - hugo
   - python --version
-  - sudo pip install awscli
-  - aws s3 sync --acl public-read --delete public/ s3://family.chadwick.nz
+
+deploy:
+  provider: script
+  script: aws s3 sync --recursive --acl public-read --delete public/ s3://family.chadwick.nz
+  skip_cleanup: true
+  on:
+    branch: master
 
 notifications:
-    email:
-        on_failure: always
+  email:
+    on_failure: always

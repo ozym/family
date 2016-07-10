@@ -4,12 +4,12 @@ title = "Family"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = ""
 googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "Historical Family Notes"
+    description          = "Family Notes"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Tree"
     # Social media buttons that appear on the sidebar
@@ -41,11 +41,9 @@ googleAnalytics = ""
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Something Here"
-
-    paragraph = "More Here."
-
-    about     = "Even More Here."
+    header    = "Family"
+    paragraph = ""
+    about     = ""
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended

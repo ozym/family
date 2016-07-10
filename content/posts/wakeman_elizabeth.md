@@ -24,9 +24,12 @@ Elizabeth Wakeman ...
 
 Elizabeth Wakeman was the eldest daughter of Henry Wakeman, Esq. and Frances, daughter of William Higford, Esq., of Dixton, county Gloucester, and Dorothy, his wife, daughterof Robert, Viscount Tracy.
 
+Dorothy was the daughter of Robert, Viscount Tracy, and his wife Anne, eldest daughter of William Dowdeswell of Pool-Court, in Com. Wig. Esq. (However, this Robert may have in fact been Robert, son of Viscount Tracy).
+
 ## References
 
 * [FRANCES MARY HOBKIRK -- Letter 1881 to her daughter Louisa Fooks](http://www.hopkirk.org/hopkirk/HobkirkPhotos/Hobkirk.JF.westminster/HobkirkFrancesMaryLecesne1881.letter.re.typed.doc)
 
-* WAKEMAN GENEALOGY. 1630-1599.
-  -- Being a History of the Descendants of SAMUEL "WAKEMAN, of Hartford, Conn., and of JOHN WAKEMAN, Treasurer of New Haven Colony, with a Few Collaterals Included. BY ROBERT P. WAKEMAN.  Meriden, Conn. : Printed by the Journal Publishing Co. 1900.
+* Wakeman Genealogy. 1630-1599. -- Being a History of the Descendants of SAMUEL "WAKEMAN, of Hartford, Conn., and of JOHN WAKEMAN, Treasurer of New Haven Colony, with a Few Collaterals Included. BY ROBERT P. WAKEMAN.  Meriden, Conn. : Printed by the Journal Publishing Co. 1900.
+
+* The Baronettage of England: Being an Historical and Genealogical, Volume 1. By Arthur Collins.

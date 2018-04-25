@@ -12,11 +12,59 @@ type = "post"
 
 +++ 
 
+Witnesses to the marriage of George Robinson and Emily Kilsby Whelpdale were
+Joseph Kilsby Whelpdale
+Sophia Elizabeth Drakeford
+(04 Jan 1836)
+
+Emily's brother, Edward Kilsby Whelpdale, married Louisa Drakeford.
+
+Emily's sister, Ann Kilsby Whelpdale, married Joseph Loy, 15 Feb 1828 in Shoreditch, St Leonard. Witnesses were William Smith & Eliz Kilsby
+
+Emily's brother, Joseph Kilsby Whelpdate, is buried at "Kensal Green All Souls", he died aged 37 on 1st Feb 1846. 
+"The Grapes Inn" -- Albermarle Street, St John, Clerkenwell.
+
+Baptisms at St Paul Hammersmith:
+21 June 1806?
+Ann Kilsby 20 Oct:
+Edward Kilsby 20 Jan ("Stephen & Elizabeth Whelpdale")
+
+4th July 1826
+Edward Kilsby Whelpdale, Son of Stephen Whelpdale late of
+Hammersmith in the county of Middlesex, Horse dealer, deceased,
+doth put himself Apprentice to Edward Kilsby 
+"Citizen & Skinner"
+
+11 April 1837
+I Elizabeth Whelpdale of the age of 45 years,
+Widow of Stephen Whelpdale late of Portman Market,
+Marylebone,Coach ? Proprioter
+
+[1837 - 45 = 1792]
+
+Henry Whelpdale son of Stephen Whelpdale, late of
+York Street Westminster, Livery Stable Keeper,
+doth put himself apprentice to Edward Kilsby
+"Citizen and Skinner"
+6 Nov 1838
+
+18 Jan 1846
+Freedom of the Skinners Company
+
+William Stephen Whelpdale, son of Stephen Whelpdale, late of Maidstone Kent, Victualler decd,
+Occupying premises of "Kings Head" --- > 21 years, 13 Sept. 1842.
+
+Edward Kilsby
+son of William Kilsby
+late of [Brentford]
+5 Jun 1793
+
 Emily Kilsby Whelpdate ...
 
 Marriage: George Robinson
 Child: George Robinson
-Child: Sophia?
+Child: William Nicholas? (6 in Jan 1845, about 1838)
+Child: Sophia? (4 in Jan 1845, about 1840)
 Widow
 
 Emily married Bertram Mitford on Dec 11, 1842 at Saint George, Gravesend, Kent, England. Bertram was the son of Joseph & Ann George and was

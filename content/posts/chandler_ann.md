@@ -1,16 +1,102 @@
 +++
 author = "MPC"
-categories = ["CHANDLER"]
+categories = ["CHANDLER", "FOOKS"]
 date = "2016-07-10T11:40:00+12:00"
-description = "Edward Chandler of Fleet Market"
+description = "Ann Chandler"
 featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Chandler, Edward"
+title = "Chandler, Ann (1803 -- 1879)"
 type = "post"
 
 +++
+
+Ann Chandler died on September 20th, at Brown Street, Timaru, the widow of
+Charles Berjew Fooks, late of Christchurch, aged 76 years. -- Timaru Herald, (Oct 2, 1879).
+
+
+
+Born in Holborn, London, in 1803, Ann emigrated to New Zealand following her husband and son, Charles Edward Fooks.
+Together with her sisters and their families, she left Deal, England, aboard the "William Hyde"
+on Tuesday, the 21st October, 1851. -- Lyttelton Times, (Feb 14, 1852 -- Page 6).
+
+Ann Chandler was the wife of Charles Berjew Fooks, and a sister-in-law of the brothers:
+Joseph & William Guise Brittan, who together married three of her sisters. Charles was
+by training an architect, but appears to have been more of an investor and land developer.
+It appears, other than marry Ann, that he wasn't too successful and eventually being
+charged with ... while working ... and sent to Gaol, with hard labour.
+
+Born in ..., Ann came from a fairly wealthy family of Fleet Market Undertakers. Her parents,
+Edward Chandler and Ann Dolby were married in St. Sephulchre Parish in Holborn, London.
+
+    "St. Sephulchre, Holborn, Parish Records" 1754 - 1932 
+    No. 20
+    Edward Chandler of this Parish a Bachelor & Ann Dolby of the Parish of
+    Winkfield in the County of Berks a Spinster were
+    married in this Church by License
+    this Twenty Fifth Day of February in the Year One Thousand Seven Hundred
+    and Ninety Seven -- By me Tho. Richards Curate
+    This marriage was solemnized between Us Edward Chandler / Ann Dolby
+    In the Prefence of Charles Dolby / Nancy Fisher
+
+Although her birth entry doesn't mention her mother's maiden name:
+
+    "St Sepulchre, Holborn London"
+    Ann Chandler, daughter of Edward and Ann Chandler, christened Jul 12, 1803, born Jun 11, 1803
+
+Luckily on the night of the 1841 census she was present with her sisters and aunts:
+
+    Calpham Road Portland Place, St Mary Lambeth, Surrey, England
+    HO107 1055/6 pg. 7
+
+    Sophia Chandler, Female 35
+    Louisa Chandler, Female 30
+    Harriet Wicks, Female 70
+    Elizabeth Dolby, Female 70
+    Ann Fooks, Female 35
+    Elizabeth M Brittan, Female 25
+    Joseph Brittan, Male 4
+    Adelaid M Brittan Female, 0
+    Ann Kemp, Female, 30
+    Hester Ladd, Female, 25
+
+which leads to the birth records of,
+
+    Harriot Dolby married John Harris Wicks on Feb 15, 1790 at Sunninghill, Berkshire, England
+    (but also Feb 11, 1790 at both Hampshire, England, and Salisbury, Wiltshire, England)
+
+John Harris Wicks was of Egham, Surrey, having " .... presided thirty years Master of Englefield School, in this Parish [Engham]"
+(monument in Egham Church).
+
+"... Wicks had set up Wicks’s Academy in Englefield Lodge (also known as Englefield House), Middle Hill in 1787 for the sons of gentlemen. An annexe to the house served as a schoolroom but the boys also boarded. By 1790 the school was successful enough for him to be able to marry Harriet Dolby from Sunninghill." -- eghammuseum.org
+
+It's worth noting that Winkfield, where Ann Dolby was from, was roughly only five kilometers from Edgham, and Sunninghill, which are close to Windsor Park.
+
+"And in Christchurch, "Englefield Lodge", built by William Guise Brittan in 1855/56" with the presumption that it was designed by Charles Fooks -- http://www.heritage.org.nz/the-list/details/1867
+
+In Sunninghill, George Dolby was awarded "1st Allotment, No. 6 - [Near Thatched] Lane"
+
+
+#and may be related to:
+#
+#Harriot Dolby daughter of William & Sarah Dolby, christened Jun 20, 1779 at Easthampstread, Berkshire, England
+#John Harris Wicks
+
+
+------
+
+
+
+Edward Chandler, "Citizen and Joiner of London" was a very wealthy man. After his death in 1781
+he left behind an extensive will. Before then he also founded a school named Gilmorton Chandler,
+to educate children within a "Christian atmosphere" in Gilmorton, Leicestershire, close to where he
+was born. His parents were Edward Chandler and Mary Green, married in Croft, Leicestershire, in
+1703. He was christened in 1712 in the nearby parish of Ashby Parva.
+
+left behind a
+large number of properties
+extensive will with
 
 PROB 11/1082 350
 
@@ -288,3 +374,78 @@ don, and are, on or before the 6th day of April 1846, to
 establish such claims beore the said Master, or in default
 thereof they will be peremptorily excluded the benefit of
 the said Decree and the General Orders of the said Court.
+
+
+------
+
+"St. Sephulchre, Holborn, Parish Records" 1754 - 1932 
+
+No. 7
+Edward Chandler of this Parish, Bachelor and
+Sarah Chandler of this Parish, Spinster a minor, were
+Married in this Church by License with the Consent of the Minor's Father
+this twenty third Day of May in the Year One Thoufand sevent Hundred
+and fixty four By John Moore Curate
+This Marriage was folemnized between Us Edward Chandler / Sarah Chandler
+In the Presence of Edward Chandler / Sarah Chandler
+
+"St. Sephulchre, Holborn, Parish Records" 1754 - 1932 
+No. 20
+Edward Chandler of this Parish a Bachelor & Ann Dolby of the Parish of
+Winkfield in the County of Berks a Spinster were
+married in this Church by License
+this Twenty Fifth Day of February in the Year One Thousand Seven Hundred
+and Ninety Seven -- By me Tho. Richards Curate
+This marriage was solemnized between Us Edward Chandler / Ann Dolby
+In the Prefence of Charles Dolby / Nancy Fisher
+
+-----
+
+A minor in 1797, between 12 and 21.
+1797 - 21 = 1776
+1797 - 12 = 1785
+
+
+"St. Sephulchre, Holborn, Parish Records" Deaths & Burials, 1820 - 1842 
+
+Burials in the Parish of St. Sephulchre
+in the City of London in the Year 1824
+
+No. 602
+Edward Chandler, Fleet Market, May 24th, Yrs 56, Richard Dickson Shackleford DD. Dean
+
+1824 - 56 = 1768
+
+-----
+
+Edward Chandler, b. Mar 15, 1800 St Sepulchre, London, son of Edward and Ann Chandler. c. Apr 15, 1800.
+Sophia Chandler, b. Mar 24, 1805 St Sepulchre, London, son of Edward and Ann Chandler. c. May 1, 1805.
+Ann Chandler, b. Jun 11, 1803  St Sepulchre, London, son of Edward and Ann Chandler. c. Jul 12, 1803
+Louisa Chandler, b. Sep 27, 1809  St Sepulchre, London, son of Edward and Ann Chandler. c. Nov 15, 1809
+Elizabeth Mary Chandler, c. Jul 28, 1814 St Sepulchre, London, son of Edward and Ann Chandler.
+
+
+Ann:
+Married: Charles Berjew Fooks
+Date: 12 OCT 1826
+Place: Lambeth St Mary, Surrey, England
+
+#Greeting's Suie. . . . Found these Burials for Chandler's in Gilmorton.1813 -1891. Place / names / dates / Year / age. Hope this will help you. . . MIKE.
+#
+#GILMORTON CHANDLER ANN             13 FEB 1815 81
+#GILMORTON CHANDLER ELIZABETH       28 APR 1818 77
+#GILMORTON CHANDLER MARY            22 MAY 1819 48
+#GILMORTON CHANDLER WILLIAM         24 FEB 1822 62 (DROWNED) 
+#GILMORTON CHANDLER EDWARD          21 JUL 1822 57 (HANGED) 
+#GILMORTON CHANDLER MARY ANN        02 JUN 1826  3 WKS
+GILMORTON CHANDLER MARY            03 DEC 1841 78
+#GILMORTON CHANDLER ELIZABETH       04 MAR 1854 56 
+#GILMORTON CHANDLER THOMAS          11 MAY 1857 30
+#GILMORTON CHANDLER WILLIAM         02 DEC 1862 58
+#GILMORTON CHANDLER EDWARD          07 AUG 1864  2
+#GILMORTON CHANDLER THOMAS          06 DEC 1865 65
+#GILMORTON CHANDLER EMMA            28 JUL 1876 23 
+#GILMORTON CHANDLER LOIS            29 MAR 1879 85
+#GILMORTON CHANDLER ANN             12 SEP 1879 26
+#GILMORTON CHANDLER WILLIAM         15 NOV 1882 52
+#GILMORTON CHANDLER BEATRICE HELEN  30 MAR 1889 11 WKS

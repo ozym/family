@@ -1,16 +1,92 @@
 +++
 author = "MPC"
-categories = ["CHANDLER"]
+categories = ["CHANDLER", "FOOKS"]
 date = "2016-07-10T11:40:00+12:00"
-description = "Edward Chandler, Citizen and Joiner of London"
+description = "Ann Chandler"
 featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Chandler, Edward"
+title = "Chandler, Ann (1803 -- 1879)"
 type = "post"
 
 +++
+
+Ann Chandler died on September 20th, at Brown Street, Timaru, the widow of
+Charles Berjew Fooks, late of Christchurch, aged 76 years. -- Timaru Herald, (Oct 2, 1879).
+
+
+
+Born in Holborn, London, in 1803, Ann emigrated to New Zealand following her husband and son, Charles Edward Fooks.
+Together with her sisters and their families, she left Deal, England, aboard the "William Hyde"
+on Tuesday, the 21st October, 1851. -- Lyttelton Times, (Feb 14, 1852 -- Page 6).
+
+Ann Chandler was the wife of Charles Berjew Fooks, and a sister-in-law of the brothers:
+Joseph & William Guise Brittan, who together married three of her sisters. Charles was
+by training an architect, but appears to have been more of an investor and land developer.
+It appears, other than marry Ann, that he wasn't too successful and eventually being
+charged with ... while working ... and sent to Gaol, with hard labour.
+
+Born in ..., Ann came from a fairly wealthy family of Fleet Market Undertakers. Her parents,
+Edward Chandler and Ann Dolby were married in St. Sephulchre Parish in Holborn, London.
+
+    "St. Sephulchre, Holborn, Parish Records" 1754 - 1932 
+    No. 20
+    Edward Chandler of this Parish a Bachelor & Ann Dolby of the Parish of
+    Winkfield in the County of Berks a Spinster were
+    married in this Church by License
+    this Twenty Fifth Day of February in the Year One Thousand Seven Hundred
+    and Ninety Seven -- By me Tho. Richards Curate
+    This marriage was solemnized between Us Edward Chandler / Ann Dolby
+    In the Prefence of Charles Dolby / Nancy Fisher
+
+Although her birth entry doesn't mention her mother's maiden name:
+
+    "St Sepulchre, Holborn London"
+    Ann Chandler, daughter of Edward and Ann Chandler, christened Jul 12, 1803, born Jun 11, 1803
+
+Luckily on the night of the 1841 census she was present with her sisters and aunts:
+
+    Calpham Road Portland Place, St Mary Lambeth, Surrey, England
+    HO107 1055/6 pg. 7
+
+    Sophia Chandler, Female 35
+    Louisa Chandler, Female 30
+    Harriet Wicks, Female 70
+    Elizabeth Dolby, Female 70
+    Ann Fooks, Female 35
+    Elizabeth M Brittan, Female 25
+    Joseph Brittan, Male 4
+    Adelaid M Brittan Female, 0
+    Ann Kemp, Female, 30
+    Hester Ladd, Female, 25
+
+which leads to the birth records of,
+
+    Harriot Dolby married John Harris Wicks on Feb 15, 1790 at Sunninghill, Berkshire, England
+    (but also Feb 11, 1790 at both Hampshire, England, and Salisbury, Wiltshire, England)
+
+John Harris Wicks was of Egham, Surrey, having " .... presided thirty years Master of Englefield School, in this Parish [Engham]"
+(monument in Egham Church).
+
+"... Wicks had set up Wicks’s Academy in Englefield Lodge (also known as Englefield House), Middle Hill in 1787 for the sons of gentlemen. An annexe to the house served as a schoolroom but the boys also boarded. By 1790 the school was successful enough for him to be able to marry Harriet Dolby from Sunninghill." -- eghammuseum.org
+
+It's worth noting that Winkfield, where Ann Dolby was from, was roughly only five kilometers from Edgham, and Sunninghill, which are close to Windsor Park.
+
+"And in Christchurch, "Englefield Lodge", built by William Guise Brittan in 1855/56" with the presumption that it was designed by Charles Fooks -- http://www.heritage.org.nz/the-list/details/1867
+
+In Sunninghill, George Dolby was awarded "1st Allotment, No. 6 - [Near Thatched] Lane"
+
+
+#and may be related to:
+#
+#Harriot Dolby daughter of William & Sarah Dolby, christened Jun 20, 1779 at Easthampstread, Berkshire, England
+#John Harris Wicks
+
+
+------
+
+
 
 Edward Chandler, "Citizen and Joiner of London" was a very wealthy man. After his death in 1781
 he left behind an extensive will. Before then he also founded a school named Gilmorton Chandler,
@@ -74,21 +150,8 @@ exist for
 
 The only related Marriage found was between Edward Chandler and Sarah Chandler at St. Sepulchre, Holborn, London, on Oct 11th, 1765. 
 
-There's also a reference to
-
-        "... On Saturday laft Mr. Edward Chandler, an eminent
-        Undertaker, in the Fleet-Market, was married at Rich-
-        mond to Mrs. Boftock, of Johnfon's Court, Fleet-ftreet,
-        an agreeable Widow Lady of a confiderable Forture."
-
--- (General Advertiser, May 22nd, 1751).
-
-Name            Sarah Bostock
-Marriage        18/05/1751 Richmond, St Mary Magdalene Surrey England
-
-The Post-Office Annual Directory for 1814
-
-        "Chandler Edward, Undertaker, 35, Fleet-street."
+There's also a reference to "... On Saturday laft Mr. Edward Chandler, an eminent Undertaker, in the Fleet-Market, was married at Richmond to Mrs. Boftock, of Johnfon's Court, Fleet-Street, ..."
+(General Advertiser, May 22nd, 1751).
 
 
 From "The Chandler Family Association" (http://chandlerfamilyassociation.org) 
@@ -326,6 +389,7 @@ and fixty four By John Moore Curate
 This Marriage was folemnized between Us Edward Chandler / Sarah Chandler
 In the Presence of Edward Chandler / Sarah Chandler
 
+"St. Sephulchre, Holborn, Parish Records" 1754 - 1932 
 No. 20
 Edward Chandler of this Parish a Bachelor & Ann Dolby of the Parish of
 Winkfield in the County of Berks a Spinster were
@@ -385,85 +449,3 @@ GILMORTON CHANDLER MARY            03 DEC 1841 78
 #GILMORTON CHANDLER ANN             12 SEP 1879 26
 #GILMORTON CHANDLER WILLIAM         15 NOV 1882 52
 #GILMORTON CHANDLER BEATRICE HELEN  30 MAR 1889 11 WKS
-
-#also
-
-[W1798 G3]. Short title: Gordon v Chandler. Document type: bill and answer. Plaintiffs:...
-Reference:      C 12/236/3
-
-Short title: Gordon v Chandler.
-Document type: bill and answer.
-Plaintiffs: James McPherson Gordon and others.
-Defendant: William Chandler (senior),
-        William Chandler (junior) and wife,
-        Sarah Chandler (representative of Thomas Chandler),
-        William Gordon,
-        Sarah Chandler,
-        Mary Ann Chandler,
-        Sophia Chandler,
-        Matilda Chandler,
-        Edward Chandler,
-        James Gordon and wife,
-        John Spicer Fisher and wife and
-        John Lucas and wife.
-
-Note:   Suit titles taken from OBS 1/653; data on parties taken from IND 1/4156 fo 167
-Date:   1798
-Held by:        The National Archives, Kew
-Legal status:   Public Record(s)
-Closure status: Open Document, Open Description
-
-(Nancy Fisher is a witness to marriage of Edward Chandler + Ann Dolby - 1797)
-And, John Spicer Fisher married Nancy Chandler Mar 7, 1795 -> St. Sepulchre, London, England
-1837 John Spicer Fisher -> goldsmith "Newington Butts"
-1846 - May 2. At Camberwell, aged 76, John Spicer Fisher, esq. -- The Gentleman's Magazine, Volume 179
-
-From Old Bailey  -- 8th September 1773
-
-594, 595. (L.) WILLIAM DAVIS and ELIZABETH SMITH were indicted for stealing four pieces of woollen cloth containing nine yards, value 30 s. and one yard of baize, value 1 d. the property of Edward Chandler the elder , Edward Chandler the younger , and Thomas Chandler ; the other for receiving the above goods, knowing them to have been stolen , Aug. 3d . ~
-
-Thomas Chandler . I am in partnership with Edward Chandler the elder, and Edward Chandler the younger. On the 10th of August I received information from a woman that I had been robbed at several times of some cloth, such as we cover coffins with; on the 11th I got a constable and examined; I had no suspicion of the prisoner before; he had been porter to us ten months; he owned he had stole the cloth and gave it to Elizabeth Smith ; I took them both before a magistrate; they took me to Mr. Shields where they sold the cloth; the man confessed he stole the cloth and gave it to the woman to sell. I found it at Shields's; it is remnants; there are five pieces in all. Shields said he knew the woman very well. (The cloth produced).
-
-Prosecutor. I believe it is mine, I cannot be positive; I believe the baize to be mine; I have some hundred yards of it.
-
-Benedict Shields . I am a piece-broker and trimming-seller; the woman prisoner brought the cloth to my house and sold it; I gave her 2 s. 3 d. a yard for it.
-
-Prosecutor. It cost me 4 s. 6 d. a yard.
-
-Shields. They are remnants which are less valuable: they brought it in the middle of the day or else I should have been suspicious of them. I heard the woman ask Mr. Chandler to be merciful to her; I do not remember her confessing it.
-
-See originalClick to see original
-Stiles Jones. Mr. Chandler gave me charge of the prisoners; they both confessed the stealing of it, and gave me directions to go to Shields's, where it was sold.
-Davis said nothing in his defence.
-
-Smith's Defence.
-
-I did not know it was stole.
-
-Q. to the prosecutor. Did you make him any promise, if he did confess?
-
-Prosecutor. I told him I would forgive him if he would confess every thing, but there is a number of things lost he would not confess to.
-
-DAVIS guilty . T .
-
-SMITH acquitted .
-
-------
-
-We have "John Lucas" marry Eleanor Chandler, Oct 8, 1793, Gilmorton, Leicester, England. (Residence, Kilncote).
-
-------
-Obituary, November 1787, 31. Mr. Thomas Chandler, undertaker, Fleet market.
-
-The Gentleman's Magazine, Volume 62 -- 31. Mr. Thomas Chandler, many years an eminent coffin-maker and undertaker at the fide of Fleet-market.
-
-
-======
-
-1712:
-Marri
-
-Edward ye son of Edward Chandler & Mary his Wife was Baptised Sep 14 (1712)
-
-St. Sepulchre, Holborn, xxx 4, 17xx, "Edward S of Edward & Sarah Chandler  .... 25" (being born 25 Nov. prior)
-

@@ -59,3 +59,5 @@ type = "post"
     Wellington, and two sisters, Mrs. H.
     Hughes (Sydney) and Mrs. P. Hurley
     (Western Australia).
+
+    -- 

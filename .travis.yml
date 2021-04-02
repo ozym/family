@@ -14,7 +14,7 @@ deploy:
   script: aws s3 sync --acl public-read --delete public/ s3://family.chadwick.nz
   skip_cleanup: true
   on:
-    branch: master
+    branch: main
 
 notifications:
   email:

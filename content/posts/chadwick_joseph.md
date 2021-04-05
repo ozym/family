@@ -120,3 +120,55 @@ Mr Joseph Chadwick anounces himself as a candidate for the extraordinary vacancy
 * [WANGANUI HERALD, VOLUME VI, ISSUE 18849, 5 SEPTEMBER 1873](http://paperspast.natlib.govt.nz/newspapers/WH18730905.2.4.1)
 * [WANGANUI HERALD, VOLUME VI, ISSUE 1894, 11 SEPTEMBER 1873](http://paperspast.natlib.govt.nz/newspapers/WH18730911.2.5)
 * [WANGANUI HERALD, VOLUME VI, ISSUE 1904, 23 SEPTEMBER 1873](http://paperspast.natlib.govt.nz/newspapers/WH18730923.2.6)
+
+
+>    OBITUARY.
+>
+>    WANGANUI, March 19. Joseph Chadwick, aged 88, is dead. Deceased was a well-known old identity and took part in the Maori wars.
+>    He was at one time a borough councillor, and was prominent in local affairs until his retirement, twelve years ago. Deceased was formerly in business as an auctioneer.
+>
+>    (Mr H. Chadwick, of Hawera, is a son of the late Mr Chadwick, as is also Mr J. Chadwick, the well-known handicapiper and sporting writer.)
+>
+>    HAWERA & NORMANBY STAR, VOLUME LXV, ISSUE LXV, 19 MARCH 1913, PAGE 7
+
+>
+> __THE LATE MR CHADWICK__
+>
+> The Wanganui Herald, referring to the late Mr Chadwick, says:
+> The late Mr Chadwick, who was born in London, went to sea as a young man,
+> and spent several very exciting and adventurous years in the suppression of the slave trade.
+> Returning to shore pursuits, he went through a course of engineering, and was one of those employed in the fitting of the machinery at the London Exhibition of 1851.
+> In 1853, he decided to seek fortune in Australia, and with his wife and family sailed in the ship Allapore for Victoria,
+> where he established himself as an auctioneer, having branches in several towns, with headquarters at Ararat.
+> In this capacity he was very frequently employed, by the Government of Victoria, for whom he sold a large quailiity of land.
+> During this time he also served a term as a councillor of the borough of Ararat, which was at that time one of the chief mining towns of the colony.
+> On one occasion, at this time, the Governor, Sir Henry Barkly, visited, Ararat. The townspeople wished to entertain him at a banquet,
+> but there was no hall large enough for the purpose. Mr Chadwick promptly built an addition to his auction mart, and here the function was held.
+> Mr Chadwick also had extensive business connections in New South "Wales. After ten years spent in Australia, Mr Chadwick joined in the exodus
+> to New Zealand following the discovery of gold in this country, and in 1863 arrived in Otago, where he joined in the Dunstan rush.
+> Later, he went to Havelock, when the Whakamarina rush was on, and after a short stay there, came to Wanganui in 1865, and settled down here as an auctioneer and general agent.
+> For some time he was the leading stock auctioneer on this coast, holding regular sales at Wanganui, Rangitikei, Marton and Turakina.
+> He was also a very large wool buyer, though the risks attending what was then a very fluctuating movement made his operations in this respect unprofitable.
+> He was sergeant-major in the Wanganui Cavalry, and also had charge of the commissariat in the campaign against the Hauhaus led by Titokowaru,
+> and later was a lieutenant in the Campbelltown Rifles, receiving the New Zealand War medal for his services.
+> For ten years he sat as a member of the Wanganui Borough Council, and it was largely owing to his efforts that the policy of street tree-planting was entered upon.
+> He took a great interest in sport, and for many years was one of the trustees of the Wanganui racecourse, but only ran a few horses here,
+> being associated vith Mr Geo. Walker in the ownership of Peter Flat.
+> He was also a past master of the Masonic order.
+> The members of the deceased gentleman family were: Mrs E. N. Liffiton {Wanganui), Mrs Geo. Hurley (Wellington), Mrs J. W. Falkner (Wanganui), Mr Joseph Chadwick (Auckland),
+> and Mr Harry Chadwick (Hawera)
+>
+> HAWERA & NORMANBY STAR, VOLUME LXV, ISSUE LXV, 20 MARCH 1913, PAGE 8
+
+>
+> __SOLDIERS' AND VOLUNTEERS' CLAIMS.__
+>
+> The following are the claims under "The Naval and Military Settlers and Volunteers Act, 1889," heard at Wanganui on October 17th and 18th, before J. W. A. Marchant, Esq., Commissioner of Lands :—
+> Military. — Col-Sergt Thomas Boyle, 14th Regiment; Private Patrick Cavanagh, 57th ; Private George Doughty, 68th ; Private James Farrell, 18th ; Private David Hogan, 57th; Private Felix Honnon, 68th;
+> Private Thomas Irwin, 18th ; Ensign C. H. W. Lock, 1st West India ; Private William Love, 18th; Sergt Charles McDavitt, 18th; Private William Osborne, 65th; Private Ben. Robinson, 86th;
+> Private M. Ryan, 18th; Private J. Shannon, 57th; Private Charles Sommerville, 65th; Private James Swan, 14th ; Private William Wheeler, 57th.
+> Volunteer. — Kai Iwi Cavalry : J. W. Baker. Alexandra Cavalry : W. H. Batchelor, W. W. Brooks, C. Brownlee, John Bates, C. H. Chavanne, J. W. Durie, N. B. Garner, C. F. Harrison, James Higgie,
+> A. S. Laird, A. McGregor, P. G. Smith, Surgeon-Major Tripe, W. H. Wisdom, Richard Wisdom. Wanganui Cavalry : Joseph Chadwick, Thomas Gordon, Thomas Handley, James Hindley, John Jones.
+> Victoria Rifles : William Gorman. Taranaki Volunteers : Arthur Harrison. Wanganui No. 1 Company Rifles : James Lett. Wanganui Militia : H. L. Peake. Taranaki Rifles : W. A. Spurdle.
+>
+> TARANAKI HERALD, VOLUME XXXIX, ISSUE 8914, 23 OCTOBER 1890, PAGE 2

@@ -33,3 +33,36 @@ Dorothy was the daughter of Robert, Viscount Tracy, and his wife Anne, eldest da
 * Wakeman Genealogy. 1630-1599. -- Being a History of the Descendants of SAMUEL "WAKEMAN, of Hartford, Conn., and of JOHN WAKEMAN, Treasurer of New Haven Colony, with a Few Collaterals Included. BY ROBERT P. WAKEMAN.  Meriden, Conn. : Printed by the Journal Publishing Co. 1900.
 
 * The Baronettage of England: Being an Historical and Genealogical, Volume 1. By Arthur Collins.
+
+###
+
+Frances Higford     == Henry Wakeman (1709-1787)
+Dorothy Tracy       == William Higford (1654 - 1733)
+Dorothy Cocks       == Robert Tracy (- 1662) [2nd Viscount Tracy of Rathcoole]
+Anne Elton          == Thomas Cocks
+Anne Aston          == Ambrose Elton
+Anne Lucy           == Edward Aston
+Joyce Acton         == Thomas Lucy
+Mary Lacon          == Thomas Acton
+Mary Corbet         == Thomas Lacon
+Elizabeth Devereux  == Richard Corbet
+Anne Ferrers        == Walter Devereux
+Elizabeth Belknap   == William Ferrers
+Joan Boteler        == Hamon Belknap
+Alice Beauchamp     == Thomas Boteler
+Joan Cherleton      == John Beauchamp
+Maud Mortimer       == John Cherleton
+Joane de Geneville  == Roger Mortimer
+Jeanne de Lusignan  == Piers de Geneville
+Jehanne de Fougeres == Hugues XII de Lusignan
+Isabelle de Craon   == Raoul III de Fougeres
+Jeanne des Roches   == Amaury I de Craon
+Marguerite de Sable == Guillaume des Roches
+Clemence de Mayenne == Robert de Sable
+Isabelle de Meulan  == Geoffroy II de Mayenne
+Agnes de Montfort   == Galeran de Beaumont/Meulan
+Agnes de Garlande   == Amaury III de Montfort
+______ de Monthlery == Anceau de Garlande
+Elisabeth _____ == Gui II 'le Rouge' de Monthlery [11th c.]
+
+
